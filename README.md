@@ -1,12 +1,14 @@
 # Rahul Padinhappurath Bharathan
 
 **ML Engineer | AI Engineer**  
-From research to production: trustworthy ML, LLM systems, and real-world AI products.
+Based in Hamburg, Germany. Building trustworthy ML systems, LLM agents, and real-world AI products from research to production.
 
-Currently at **Airbus** working on:
+Currently at **Airbus** as part of my master's thesis, focused on:
 - Trustworthy AI and uncertainty-aware systems
 - LLM agents and evaluation workflows
 - Applied ML for production environments
+
+Previously worked across analytics, consulting, and software engineering roles in aerospace, telecom, and enterprise tech.
 
 ## Core Stack
 
@@ -29,14 +31,21 @@ Currently at **Airbus** working on:
 
 | Role | Organization | Focus |
 |---|---|---|
-| Master Thesis | Airbus | Trustworthy AI |
-| Data Scientist | Airbus | LLM agents, evaluation frameworks |
-| Senior Engineer | Infosys / T-Mobile | Java microservices |
+| Master's Thesis | Airbus | Conformal prediction, hallucination reduction, RAG evaluation |
+| Working Student, Data Analytics | Airbus | Uncertainty estimation, calibration, evaluation frameworks |
+| Working Student | PwC Deutschland | Analytics and consulting support |
+| Senior Systems Engineer | Infosys / T-Mobile | Backend Java microservices for telecom retail systems |
+| Systems Engineer | Infosys | Frontend engineering, automation tooling, Angular |
 
 ## Education
 
 - **M.Sc.** TU Hamburg - AI Safety
 - **B.Tech** TKM College - Publication at IEEE TENCON 2019
+
+## Publications & Certifications
+
+- **Publication:** *Feynman Machine: A Cortical Machine Intelligence for Path Detection in Advanced Driver-Assistance Systems* - IEEE TENCON 2019
+- **Certifications:** Google Gemini learning badges across application development, data, DevOps, network, security, and cloud architecture
 
 ## Connect
 
