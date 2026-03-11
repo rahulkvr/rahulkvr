@@ -40,8 +40,8 @@ Previously worked across analytics, consulting, and software engineering roles i
 | Master's Thesis | Airbus | Conformal prediction, hallucination reduction, RAG evaluation |
 | Working Student, Data Analytics | Airbus | Uncertainty estimation, calibration, evaluation frameworks |
 | Working Student | PwC Deutschland | Analytics and consulting support |
-| Senior Systems Engineer | Infosys / T-Mobile | Backend Java microservices for telecom retail systems |
-| Systems Engineer | Infosys | Frontend engineering, automation tooling, Angular |
+| Senior Systems Engineer | Infosys | Backend Java microservices for T-Mobile retail systems |
+| Systems Engineer | Infosys | Frontend engineering, automation tooling, and Angular applications |
 
 ## Publications & Certifications
 
