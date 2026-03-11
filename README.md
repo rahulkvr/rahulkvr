@@ -1,7 +1,7 @@
 # Rahul Padinhappurath Bharathan
 
 **ML Engineer | AI Engineer**  
-Based in Hamburg, Germany. Building trustworthy ML systems, LLM agents, and real-world AI products from research to production.
+Based in Hamburg, Germany. Building trustworthy ML systems, LLM agents, intelligent products, and applied research prototypes from research to production.
 
 Currently at **Airbus** as part of my master's thesis, focused on:
 - Trustworthy AI and uncertainty-aware systems
@@ -10,22 +10,28 @@ Currently at **Airbus** as part of my master's thesis, focused on:
 
 Previously worked across analytics, consulting, and software engineering roles in aerospace, telecom, and enterprise tech.
 
+## Highlights
+
+- 6+ years across AI/ML, analytics, and software engineering
+- Building trustworthy AI at Airbus with conformal prediction, hallucination reduction, and RAG evaluation
+- Published at IEEE TENCON 2019, achieved 23% reduction in worst-case 5G localization error, and built TinyML + LLM product prototypes
+
 ## Core Stack
 
-- **ML:** PyTorch, Scikit-learn, Hugging Face, RLHF, Conformal Prediction, Kalman Filters
-- **AI/LLM:** LangChain, LangGraph, Google ADK, Vertex AI, RAG
-- **Engineering:** Python, TypeScript, Docker, Kubernetes, GCP, Jenkins
+- **ML/AI:** PyTorch, Scikit-learn, Hugging Face, RLHF, Conformal Prediction, Active Learning, RAG
+- **LLM & Product:** Google ADK, LangChain, LangGraph, Next.js, React, Django, Node.js
+- **Systems & Edge:** Python, TypeScript, Docker, Kubernetes, GCP, MATLAB, Kalman Filters, TinyML, TensorFlow Lite, BLE
 
-## Public Repositories
+## Open Source Projects
 
-| Project | Description | Tech |
+| Project | What it does | Signal |
 |---|---|---|
-| [MediSprache](https://github.com/rahulkvr/MediSprache) | German medical dictation to structured clinical summary (Docker-first, ADK + Whisper + selectable LLM backend). | Python, Next.js, Docker |
-| [mira](https://github.com/rahulkvr/mira) | AI-powered commute audio experience platform. | JavaScript |
-| [5g-positioning](https://github.com/rahulkvr/5g-positioning) | 5G indoor positioning with RANSAC-UKF (23% error reduction). | Signal processing, estimation |
-| [hcai](https://github.com/rahulkvr/hcai) | Human-Centered AI experiments (explainability + active learning). | Python |
-| [tinyml](https://github.com/rahulkvr/tinyml) | TinyML experiments and edge inference explorations. | TypeScript |
-| [cv](https://github.com/rahulkvr/cv) | Personal portfolio website. | HTML, frontend |
+| [MediSprache](https://github.com/rahulkvr/MediSprache) | German medical dictation to structured clinical summaries using `faster-whisper`, Google ADK, and a Next.js frontend. | Docker-first full-stack AI app with live demo |
+| [MIRA](https://github.com/rahulkvr/mira) | Generates transit-aware, personalized audio experiences timed to a commuter's exact journey using GenAI, voice synthesis, and route context. | Product-style AI prototype with live demo |
+| [5g-positioning](https://github.com/rahulkvr/5g-positioning) | Indoor positioning pipeline using 5G PRS, TDoA estimation, RANSAC outlier rejection, and UKF tracking. | 23% reduction in worst-case localization error |
+| [hcai](https://github.com/rahulkvr/hcai) | Five interactive Django apps covering AutoML, active learning, explainability, recommender systems, and RLHF. | Broad human-centered ML portfolio in one repo |
+| [tinyml](https://github.com/rahulkvr/tinyml) | `SmartSip`: a TinyML hydration tracker running on Arduino Nano 33 BLE Sense with on-device gesture classification. | 93.7% validation accuracy, 21.8 KB model |
+| [cv](https://github.com/rahulkvr/cv) | Resume generator that turns HTML into PDF using Python, Playwright, and `uv`. | Practical developer tooling project |
 
 ## Experience
 
