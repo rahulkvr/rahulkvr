@@ -43,11 +43,6 @@ Previously worked across analytics, consulting, and software engineering roles i
 | Senior Systems Engineer | Infosys / T-Mobile | Backend Java microservices for telecom retail systems |
 | Systems Engineer | Infosys | Frontend engineering, automation tooling, Angular |
 
-## Education
-
-- **M.Sc.** TU Hamburg - AI Safety
-- **B.Tech** TKM College - Publication at IEEE TENCON 2019
-
 ## Publications & Certifications
 
 - **Publication:** *Feynman Machine: A Cortical Machine Intelligence for Path Detection in Advanced Driver-Assistance Systems* - IEEE TENCON 2019
