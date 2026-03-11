@@ -45,7 +45,7 @@ Previously worked across analytics, consulting, and software engineering roles i
 
 ## Publications & Certifications
 
-- **Publication:** *Feynman Machine: A Cortical Machine Intelligence for Path Detection in Advanced Driver-Assistance Systems* - IEEE TENCON 2019
+- **Publication:** [*Feynman Machine: A Cortical Machine Intelligence for Path Detection in Advanced Driver-Assistance Systems*](https://ieeexplore.ieee.org/document/8929604) - IEEE TENCON 2019
 - **Certifications:** Google Gemini learning badges across application development, data, DevOps, network, security, and cloud architecture
 
 ## Connect
