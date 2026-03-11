@@ -16,8 +16,6 @@ Currently at **Airbus** working on:
 
 ## Public Repositories
 
-> Showcasing only public repositories.
-
 | Project | Description | Tech |
 |---|---|---|
 | [MediSprache](https://github.com/rahulkvr/MediSprache) | German medical dictation to structured clinical summary (Docker-first, ADK + Whisper + selectable LLM backend). | Python, Next.js, Docker |
